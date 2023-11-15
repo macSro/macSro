@@ -22,6 +22,8 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
 
 <h1>Skills</h1>
 
+💡 _- currently learning_
+
 <h3>🔹Flutter</h3>
 
 * __Flutter SDK__
@@ -30,7 +32,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
   * BloC/Cubit (+hydrated_bloc)
   * MobX
   * Provider
-  * Riverpod <span style="color:cyan">\*</span>
+  * Riverpod 💡
 * __DevTools__
 
 <h3>🔸 Other</h3>
@@ -40,27 +42,25 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
   * Realtime Database
   * Authentication
   * Storage
-* __Hive__ <span style="color:cyan">\*</span>
+* __Hive__ 💡
 * __Git (+flows)__
 * __SQL__
 * __REST__
-* __GraphQL__ <span style="color:cyan">\*</span>
-* __CI/CD__ <span style="color:cyan">\*</span>
+* __GraphQL__ 💡
+* __CI/CD__ 💡
 * __Design nad prototyping__: Figma, Adobe Xd
 * __Agile project management__: Scrum, Kanban
 * __Native development__
   * __Android__: XML, Jetpack Compose (basics)
   * __iOS__: SwiftUI (basics)
 
-<span style="color:cyan">_\* - currently learning_</span>
-
 <h3>💬 Soft skills</h3>
 
-* Languages: Polish (Native), English (Fluent)
-* Teamwork-orientation
-* Desire for self-improvement
-* Experience in conflict resolution
-* Ability to lead and to be led
+* __Languages__: Polish (Native), English (Fluent)
+* __Experience in conflict resolution__
+* __Ability to lead and to be led__
+* __Teamwork-orientation__
+* __Desire for self-improvement__
 
 &nbsp;
 
@@ -78,7 +78,7 @@ I've been showing signs of passion for cooking since I was a little kid. Not onl
 
 
 <div align="center">
-  <img src="img/recipe.jpg" style="width: 25vw;" alt="Childhood self-made recipe">
+  <img src="img/recipe.jpg" style="width: 15vw;" alt="Childhood self-made recipe">
 </div>
 
 <h4>Vegetable salad</h4>
@@ -102,7 +102,7 @@ If you enjoy board games, I highly recommend you check out:
 &nbsp;
 
 <div align="center">
-  <img src="img/gaming.gif" style="width: 25vw;" alt="Gaming dog">
+  <img src="img/gaming.gif" style="width: 15vw;" alt="Gaming dog">
 </div>
 
 <h2>Traveling</h2>
@@ -116,19 +116,19 @@ Below are the list of countries that I'd love to travel to and the list of count
 <h3>My bucket list</h3>
 
 <h4>South Korea</h4>
-<div align="center"><img src="img/south_korea.jpg" style="width: 35vw;" alt="South Korea"></div>
+<div align="center"><img src="img/south_korea.jpg" style="width: 25vw;" alt="South Korea"></div>
 
 <h4>Japan</h4>
-<div align="center"><img src="img/japan.jpeg" style="width: 35vw;" alt="Japan"></div>
+<div align="center"><img src="img/japan.jpeg" style="width: 25vw;" alt="Japan"></div>
 
 <h4>United States (West)</h4>
-<div align="center"><img src="img/usa.jpg" style="width: 35vw;" alt="USA"></div>
+<div align="center"><img src="img/usa.jpg" style="width: 25vw;" alt="USA"></div>
 
 <h4>Iceland</h4>
-<div align="center"><img src="img/iceland.jpg" style="width: 35vw;" alt="Iceland"></div>
+<div align="center"><img src="img/iceland.jpg" style="width: 25vw;" alt="Iceland"></div>
 
 ~~<h4>Australia (Arachnophobia standing in the way)</h4>~~
-<div align="center"><img src="img/australia.gif" style="width: 35vw;" alt="Australia"></div>
+<div align="center"><img src="img/australia.gif" style="width: 25vw;" alt="Australia"></div>
 
 </div>
 
@@ -156,7 +156,7 @@ Below are the list of countries that I'd love to travel to and the list of count
   * [x] United Kingdom
 
 <div align="center">
-  <img src="img/travel.gif" style="width: 25vw;" alt="Traveling">
+  <img src="img/travel.gif" style="width: 10vw;" alt="Traveling">
 </div>
 
 
