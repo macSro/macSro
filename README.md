@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="img/title.gif" style="width: 69vw;" alt="Title">
+  <a href="https://www.youtube.com/watch?v=D9-eL6rbHD4">
+    <img src="img/title.gif" style="width: 69vw;" alt="Maciek (pronunciation)">
+  </a>
 </div>
 
 <div align="center">
@@ -18,7 +20,7 @@ Here are some of the events I organized / co-organized:
 * Polliwood Welcome Party of WUST 🎉
 * 2x Official Christmas "Movie" of WUST 🎥
 
-Having finished studies, I am eager to kick-start my career in mobile development. Even though I enjoy a remote work style, I still highly appreciate spending time with coworkers (_additionally influenced by my adoration for the show The Office_ 👔).
+Having finished studies, I am eager to kick-start my career in mobile development. Despite my preference for working remotely, I still genuinely appreciate spending time with my coworkers (_partly influenced by my love for the show The Office_ 👔).
 
 <h1>Skills</h1>
 
@@ -28,12 +30,17 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
 
 * __Flutter SDK__
 * __Dart SDK__
+* __DevTools__
 * __State management__
   * BloC/Cubit (+hydrated_bloc)
   * MobX
+  * Riverpod (+riverpod_generator)
   * Provider
-  * Riverpod 💡
-* __DevTools__
+* __Dependency Injection__
+  * GetIt
+* __Navigation__
+  * GoRouter
+  * AutoRoute 💡
 
 <h3>🔸 Other</h3>
 
@@ -42,12 +49,21 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
   * Realtime Database
   * Authentication
   * Storage
-* __Hive__ 💡
-* __Git (+flows)__
+  * Cloud Messaging (Push Notifications)
+  * Crashlytics
+  * Performance Monitoring
+  * Test Lab
+* __Git__
+  * Feature Branch Workflow
+  * Gitflow Workflow
+  * Forking Workflow
+  * Trunk-based Workflow
+* __Hive__
+* __Isar DB__
 * __SQL__
 * __REST__
 * __GraphQL__ 💡
-* __CI/CD__ 💡
+* __Codemagic CI/CD__ 💡
 * __Design nad prototyping__: Figma, Adobe Xd
 * __Agile project management__: Scrum, Kanban
 * __Native development__
@@ -62,11 +78,37 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
 * __Teamwork-orientation__
 * __Desire for self-improvement__
 
-&nbsp;
-
 <h1>Projects</h1>
 
-TODO...
+<h3>🔵 Flutter</h3>
+
+* <a href="https://github.com/macSro/eat_well">EatWell</a> - My BEng Thesis titled "Mobile app for cooking enthusiasts featuring searching for recipes considering owned products". Implemented with Flutter, BloC and Firebase (Authentication, Cloud Firestore, Storage).
+
+* <a href="https://github.com/macSro/eat_well_reviewer">EatWell Reviewer</a> - Complementary to EatWell. An app to be used by the reviewer in order to process reported missing ingredients. Implemented with Flutter, BloC and Firebase (Authentication, Cloud Firestore, Storage).
+
+* <a href="https://github.com/macSro/City-Guide-New-York">City Guide</a> - A demo city guide app for New York. Implemented with Flutter, MobX, and Google Maps Platform.
+
+* <a href="https://github.com/macSro/Google-ML-Kit-Playground">Google ML Kit Playground</a> - A simple app exploring the functionality of image labelers, text recognizers and object detectors. Implemented with Flutter and Google ML Kit.
+
+* <a href="https://github.com/macSro/WorkSpacer">WorkSpacer</a> - A multilingual desk reservation app for companies. Created as a group project. Implemented with Flutter, MobX, Firebase (Authentication and Cloud Functions) and Strapi. 
+
+* <a href="https://github.com/macSro/TODOs">TODOs</a> - A simple To-Do list app. Includes shared preferences integration. Implemented with Flutter and BloC.
+
+* <a href="https://github.com/macSro/BMI-Calculator">BMI Calculator</a> - A BMI calculator app. Includes shared preferences integration. Implemented with Flutter and BloC.
+
+* <a href="https://github.com/macSro/MastersThesis">Master's Thesis</a> - My MEng Thesis titled "Comparative analysis of selected cross-platform frameworks in relation to native development approaches". Includes four different use-case scenarios, each represented by a mobile app developed with Kotlin (Jetpack Compose), Swift (SwiftUI), Flutter and React Native.
+
+<h3>🟢 Native Android</h3>
+
+* <a href="https://github.com/macSro/Football-Tracker">Football Tracker</a> - A mobile app for Football fans with features such as score monitoring, article browsing, following favorite teams, etc. Created as a group project. Implemented with Java, PostgreSQL, and Apache Tomcat.
+
+<h3>🟠 Java</h3>
+
+* <a href="https://github.com/macSro/Connect4-vs-AI">Connect4 vs AI</a> - Both a desktop game and a benchmarking tool which uses Minmax algorithm with alpha-beta pruning. Implemented with Swing (Java). 
+
+* <a href="https://github.com/macSro/Sudoku-Solver">Sudoku Solver</a> - Desktop app that models Sudoku as Constraint Satisfaction Problem and solving it with Backtracking and Forward chaining. Implemented with JavaFX.
+
+* <a href="https://github.com/macSro/TSP-Heurestic-Solver">Traveling Salesman Problem Solver</a> - Desktop app that solves Traveling Salesman Problem via a heuristic approach using Genetic Algorithm, and visualizes the algorithm performance for further research. Implemented with JavaFX.
 
 <h1>Hobbies</h1>
 
@@ -78,7 +120,7 @@ I've been showing signs of passion for cooking since I was a little kid. Not onl
 
 
 <div align="center">
-  <img src="img/recipe.jpg" style="width: 15vw;" alt="Childhood self-made recipe">
+  <img src="img/recipe.jpg" style="width: 25vw;" alt="Childhood self-made recipe">
 </div>
 
 <h4>Vegetable salad</h4>
@@ -91,7 +133,7 @@ _Cheese and sausage, really???_ 🤨
 
 While I've definitely spent way too much time gaming online (mostly FPS, e.g. CS:GO and Valorant), I honestly prefer meeting with friends to play some board games. I'd say my favorite genre is strategy, which probably roots back to my childhood favorite video game: _Heroes of Might and Magic V_.
 
-If you enjoy board games, I highly recommend you check out:
+If you enjoy board and card games, I highly recommend you check out:
 * <a href="https://boardgamegeek.com/boardgame/27627/talisman-revised-4th-edition">Talisman: The Magical Quest Game (Revised 4th Edition)</a> + Expansions
 * <a href="https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition">A Game of Thrones: The Board Game (Second Edition)</a>
 * <a href="https://boardgamegeek.com/boardgame/21241/neuroshima-hex-30">Neuroshima Hex! 3.0</a>
@@ -102,7 +144,7 @@ If you enjoy board games, I highly recommend you check out:
 &nbsp;
 
 <div align="center">
-  <img src="img/gaming.gif" style="width: 15vw;" alt="Gaming dog">
+  <img src="img/gaming.gif" style="width: 25vw;" alt="Gaming dog">
 </div>
 
 <h2>Traveling</h2>
@@ -116,19 +158,19 @@ Below are the list of countries that I'd love to travel to and the list of count
 <h3>My bucket list</h3>
 
 <h4>South Korea</h4>
-<div align="center"><img src="img/south_korea.jpg" style="width: 25vw;" alt="South Korea"></div>
+<div align="center"><img src="img/south_korea.jpg" style="width: 35vw;" alt="South Korea"></div>
 
 <h4>Japan</h4>
-<div align="center"><img src="img/japan.jpeg" style="width: 25vw;" alt="Japan"></div>
+<div align="center"><img src="img/japan.jpeg" style="width: 35vw;" alt="Japan"></div>
 
 <h4>United States (West)</h4>
-<div align="center"><img src="img/usa.jpg" style="width: 25vw;" alt="USA"></div>
+<div align="center"><img src="img/usa.jpg" style="width: 35vw;" alt="USA"></div>
 
 <h4>Iceland</h4>
-<div align="center"><img src="img/iceland.jpg" style="width: 25vw;" alt="Iceland"></div>
+<div align="center"><img src="img/iceland.jpg" style="width: 35vw;" alt="Iceland"></div>
 
 ~~<h4>Australia (Arachnophobia standing in the way)</h4>~~
-<div align="center"><img src="img/australia.gif" style="width: 25vw;" alt="Australia"></div>
+<div align="center"><img src="img/australia.gif" style="width: 35vw;" alt="Australia"></div>
 
 </div>
 
@@ -156,28 +198,17 @@ Below are the list of countries that I'd love to travel to and the list of count
   * [x] United Kingdom
 
 <div align="center">
-  <img src="img/travel.gif" style="width: 10vw;" alt="Traveling">
+  <img src="img/travel.gif" style="width: 25vw;" alt="Traveling">
 </div>
-
 
 <div align="center"><h1>Thanks for stopping by! 🫡</h1></div>
 
 <div align="center">
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FmacSro"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FmacSro&label=Total%20visitors&countColor=%2337d67a&style=flat&labelStyle=lower" /></a>
+
+  ![](https://komarev.com/ghpvc/?username=macSro&label=Total+visitors&color=blueviolet)
+
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=56345054)
 
-<!--
-**macSro/macSro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- To reset counter you should log in to the Ÿ HŸPE service, and then you will be able to reset counter on the https://yhype.me/ghpvc page. -->
