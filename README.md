@@ -1,10 +1,11 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=D9-eL6rbHD4">
-    <img src="img/title.gif" style="width: 69vw;" alt="Maciek (pronunciation)">
+    <img src="img/title.gif" width="55%" alt="Maciek (pronunciation)">
   </a>
 </div>
 
 <div align="center">
+  
   Feel free to connect with me!
   
   <a href="https://linkedin.com/in/macsro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -120,7 +121,7 @@ I've been showing signs of passion for cooking since I was a little kid. Not onl
 
 
 <div align="center">
-  <img src="img/recipe.jpg" style="width: 25vw;" alt="Childhood self-made recipe">
+  <img src="img/recipe.jpg" width="250" alt="Childhood self-made recipe">
 </div>
 
 <h4>Vegetable salad</h4>
@@ -144,7 +145,7 @@ If you enjoy board and card games, I highly recommend you check out:
 &nbsp;
 
 <div align="center">
-  <img src="img/gaming.gif" style="width: 25vw;" alt="Gaming dog">
+  <img src="img/gaming.gif" width="200" alt="Gaming dog">
 </div>
 
 <h2>Traveling</h2>
@@ -158,19 +159,19 @@ Below are the list of countries that I'd love to travel to and the list of count
 <h3>My bucket list</h3>
 
 <h4>South Korea</h4>
-<div align="center"><img src="img/south_korea.jpg" style="width: 35vw;" alt="South Korea"></div>
+<div align="center"><img src="img/south_korea.jpg" width="400" alt="South Korea"></div>
 
 <h4>Japan</h4>
-<div align="center"><img src="img/japan.jpeg" style="width: 35vw;" alt="Japan"></div>
+<div align="center"><img src="img/japan.jpeg" width="400" alt="Japan"></div>
 
 <h4>United States (West)</h4>
-<div align="center"><img src="img/usa.jpg" style="width: 35vw;" alt="USA"></div>
+<div align="center"><img src="img/usa.jpg" width="400" alt="USA"></div>
 
 <h4>Iceland</h4>
-<div align="center"><img src="img/iceland.jpg" style="width: 35vw;" alt="Iceland"></div>
+<div align="center"><img src="img/iceland.jpg" width="400" alt="Iceland"></div>
 
-~~<h4>Australia (Arachnophobia standing in the way)</h4>~~
-<div align="center"><img src="img/australia.gif" style="width: 35vw;" alt="Australia"></div>
+<h4>Australia (Arachnophobia standing in the way)</h4>
+<div align="center"><img src="img/australia.gif" width="400" alt="Australia"></div>
 
 </div>
 
@@ -198,7 +199,7 @@ Below are the list of countries that I'd love to travel to and the list of count
   * [x] United Kingdom
 
 <div align="center">
-  <img src="img/travel.gif" style="width: 25vw;" alt="Traveling">
+  <img src="img/travel.gif" width="200" alt="Traveling">
 </div>
 
 <div align="center"><h1>Thanks for stopping by! 🫡</h1></div>
