@@ -27,51 +27,80 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
 
 💡 _- currently learning_
 
-<h3>🔹Flutter</h3>
+<table>
+  <tr>
+    <td>🔹 Flutter</td>
+    <td>🔸 Other</td>
+  </tr>
+  <tr valign="top">
+    <td>
+      <ul>
+        <li><strong>Flutter SDK</strong></li>
+        <li><strong>Dart SDK</strong></li>
+        <li><strong>DevTools</strong></li>
+        <li><strong>State management</strong>
+          <ul>
+            <li>BloC/Cubit (+hydrated_bloc)</li>
+            <li>MobX</li>
+            <li>Riverpod (+riverpod_generator)</li>
+            <li>Provider</li>
+          </ul>
+        </li>
+        <li><strong>Dependency Injection</strong>
+          <ul>
+            <li>GetIt</li>
+          </ul>
+        </li>
+        <li><strong>Navigation</strong>
+          <ul>
+            <li>GoRouter</li>
+            <li>AutoRoute 💡</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Firebase</strong>
+          <ul>
+            <li>Cloud Firestore</li>
+            <li>Realtime Database</li>
+            <li>Authentication</li>
+            <li>Storage</li>
+            <li>Cloud Messaging (Push Notifications)</li>
+            <li>Crashlytics</li>
+            <li>Performance Monitoring</li>
+            <li>Test Lab</li>
+          </ul>
+        </li>
+        <li><strong>Git</strong>
+          <ul>
+            <li>Feature Branch Workflow</li>
+            <li>Gitflow Workflow</li>
+            <li>Forking Workflow</li>
+            <li>Trunk-based Workflow</li>
+          </ul>
+        </li>
+        <li><strong>Hive</strong></li>
+        <li><strong>Isar DB</strong></li>
+        <li><strong>SQL</strong></li>
+        <li><strong>REST</strong></li>
+        <li><strong>GraphQL</strong> 💡</li>
+        <li><strong>Codemagic CI/CD</strong> 💡</li>
+        <li><strong>Design nad prototyping</strong>: Figma, Adobe Xd</li>
+        <li><strong>Agile project management</strong>: Scrum, Kanban</li>
+        <li><strong>Native development</strong>
+          <ul>
+            <li><strong>Android</strong>: XML, Jetpack Compose (basics)</li>
+            <li><strong>iOS</strong>: SwiftUI (basics)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-* __Flutter SDK__
-* __Dart SDK__
-* __DevTools__
-* __State management__
-  * BloC/Cubit (+hydrated_bloc)
-  * MobX
-  * Riverpod (+riverpod_generator)
-  * Provider
-* __Dependency Injection__
-  * GetIt
-* __Navigation__
-  * GoRouter
-  * AutoRoute 💡
-
-<h3>🔸 Other</h3>
-
-* __Firebase__
-  * Cloud Firestore
-  * Realtime Database
-  * Authentication
-  * Storage
-  * Cloud Messaging (Push Notifications)
-  * Crashlytics
-  * Performance Monitoring
-  * Test Lab
-* __Git__
-  * Feature Branch Workflow
-  * Gitflow Workflow
-  * Forking Workflow
-  * Trunk-based Workflow
-* __Hive__
-* __Isar DB__
-* __SQL__
-* __REST__
-* __GraphQL__ 💡
-* __Codemagic CI/CD__ 💡
-* __Design nad prototyping__: Figma, Adobe Xd
-* __Agile project management__: Scrum, Kanban
-* __Native development__
-  * __Android__: XML, Jetpack Compose (basics)
-  * __iOS__: SwiftUI (basics)
-
-<h3>💬 Soft skills</h3>
+<h4>💬 Soft skills</h3>
 
 * __Languages__: Polish (Native), English (Fluent)
 * __Experience in conflict resolution__
