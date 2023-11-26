@@ -130,7 +130,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
 
 <h3>🟢 Native Android</h3>
 
-* <a href="https://github.com/macSro/Football-Tracker">Football Tracker</a> - A mobile app for Football fans with features such as score monitoring, article browsing, following favorite teams, etc. Created as a group project. Implemented with Java, PostgreSQL, and Apache Tomcat.
+* <a href="https://github.com/macSro/FootballMania">FootballMania</a> - A mobile app for football fans with features such as score monitoring, article browsing, following favorite teams, etc. Created as a group project. Implemented with Java, PostgreSQL, and Apache Tomcat.
 
 <h3>🟠 Java</h3>
 
