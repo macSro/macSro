@@ -112,7 +112,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
 
 <h3>🔵 Flutter</h3>
 
-* <a href="https://github.com/macSro/eat_well">EatWell</a> - My BEng Thesis titled "Mobile app for cooking enthusiasts featuring searching for recipes considering owned products". Implemented with Flutter, BloC and Firebase (Authentication, Cloud Firestore, Storage).
+* <a href="https://github.com/macSro/eat_well">EatWell</a> - My BEng Thesis titled _"Mobile app for cooking enthusiasts featuring searching for recipes considering owned products"_. Implemented with Flutter, BloC and Firebase (Authentication, Cloud Firestore, Storage).
 
 * <a href="https://github.com/macSro/eat_well_reviewer">EatWell Reviewer</a> - Complementary to EatWell. An app to be used by the reviewer in order to process reported missing ingredients. Implemented with Flutter, BloC and Firebase (Authentication, Cloud Firestore, Storage).
 
@@ -126,7 +126,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
 
 * <a href="https://github.com/macSro/BMI-Calculator">BMI Calculator</a> - A BMI calculator app. Includes shared preferences integration. Implemented with Flutter and BloC.
 
-* <a href="https://github.com/macSro/MastersThesis">Master's Thesis</a> - My MEng Thesis titled "Comparative analysis of selected cross-platform frameworks in relation to native development approaches". Includes four different use-case scenarios, each represented by a mobile app developed with Kotlin (Jetpack Compose), Swift (SwiftUI), Flutter and React Native.
+* <a href="https://github.com/macSro/MastersThesis">Master's Thesis</a> - My MEng Thesis titled _"Comparative analysis of selected cross-platform frameworks in relation to native development approaches"_. Includes four different use-case scenarios, each represented by a mobile app developed with Kotlin (Jetpack Compose), Swift (SwiftUI), Flutter and React Native.
 
 <h3>🟢 Native Android</h3>
 
