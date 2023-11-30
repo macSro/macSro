@@ -44,6 +44,8 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
             <li>MobX</li>
             <li>Riverpod (+riverpod_generator)</li>
             <li>Provider</li>
+            <li>Redux 💡</li>
+            <li>RxDart 💡</li>
           </ul>
         </li>
         <li><strong>Dependency Injection</strong>
@@ -57,6 +59,8 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
             <li>AutoRoute 💡</li>
           </ul>
         </li>
+        <li>Freezed (+json_serializable)</li>
+        <li>Retrofit 💡</li>
       </ul>
     </td>
     <td>
