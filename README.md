@@ -59,9 +59,11 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
             <li>AutoRoute 💡</li>
           </ul>
         </li>
-        <li>Equatable</li>
-        <li>Freezed (+json_serializable)</li>
-        <li>Retrofit 💡</li>
+        <li><strong>http</strong></li>
+        <li><strong>dio 💡</strong></li>
+        <li><strong>Equatable</strong></li>
+        <li><strong>Freezed (+json_serializable)</strong></li>
+        <li><strong>Retrofit 💡</strong></li>
       </ul>
     </td>
     <td>
