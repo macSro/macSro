@@ -58,7 +58,8 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
             <li>AutoRoute 💡</li>
           </ul>
         </li>
-        <li>RxDart 💡</li>
+        <li><strong>Hooks 💡</strong></li>
+        <li><strong>RxDart 💡</strong></li>
         <li><strong>http</strong></li>
         <li><strong>dio 💡</strong></li>
         <li><strong>Retrofit 💡</strong></li>
