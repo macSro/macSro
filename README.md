@@ -44,7 +44,6 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
             <li>MobX</li>
             <li>Riverpod (+riverpod_generator)</li>
             <li>Provider</li>
-            <li>Redux 💡</li>
           </ul>
         </li>
         <li><strong>Dependency Injection</strong>
