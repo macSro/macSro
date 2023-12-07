@@ -57,11 +57,16 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
             <li>AutoRoute 💡</li>
           </ul>
         </li>
+        <li><strong>HTTP Networking</strong>
+          <ul>
+            <li>http</li>
+            <li>dio</li>
+            <li>Retrofit 💡</li>
+            <li>Chopper</li>
+          </ul>
+        </li>
         <li><strong>Hooks 💡</strong></li>
         <li><strong>RxDart 💡</strong></li>
-        <li><strong>http</strong></li>
-        <li><strong>dio 💡</strong></li>
-        <li><strong>Retrofit 💡</strong></li>
         <li><strong>Equatable</strong></li>
         <li><strong>Freezed (+json_serializable)</strong></li>
       </ul>
