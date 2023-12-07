@@ -53,7 +53,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
         </li>
         <li><strong>Navigation</strong>
           <ul>
-            <li>GoRouter</li>
+            <li>GoRouter (+go_router_builder)</li>
             <li>AutoRoute 💡</li>
           </ul>
         </li>
