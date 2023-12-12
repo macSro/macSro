@@ -99,6 +99,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
         <li><strong>REST</strong></li>
         <li><strong>GraphQL</strong> 💡</li>
         <li><strong>Codemagic CI/CD</strong> 💡</li>
+        <li><strong>Azure DevOps</strong></li>
         <li><strong>Design and prototyping</strong>: Figma, Adobe Xd</li>
         <li><strong>Agile project management</strong>: Scrum, Kanban</li>
         <li><strong>Native development</strong>
