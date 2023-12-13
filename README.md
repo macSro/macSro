@@ -234,6 +234,7 @@ Below are the list of countries that I'd love to travel to and the list of count
   * [x] Ireland
   * [x] Italy
   * [x] Malta
+  * [x] Poland
   * [x] Spain
   * [x] Sweden
   * [x] Switzerland
