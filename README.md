@@ -40,10 +40,10 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
         <li><strong>DevTools</strong></li>
         <li><strong>State management</strong>
           <ul>
-            <li>BloC/Cubit (+hydrated_bloc)</li>
+            <li>BloC/Cubit <!--(+hydrated_bloc)--></li>
             <li>MobX</li>
             <li>Riverpod (+riverpod_generator)</li>
-            <li>Provider</li>
+<!--             <li>Provider</li> -->
           </ul>
         </li>
         <li><strong>Dependency Injection</strong>
@@ -54,7 +54,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
         <li><strong>Navigation</strong>
           <ul>
             <li>GoRouter</li>
-            <li>AutoRoute 💡</li>
+<!--             <li>AutoRoute 💡</li> -->
           </ul>
         </li>
         <li><strong>HTTP Networking</strong>
@@ -66,7 +66,7 @@ Having finished studies, I am eager to kick-start my career in mobile developmen
           </ul>
         </li>
         <li><strong>Hooks</strong></li>
-        <li><strong>RxDart 💡</strong></li>
+<!--         <li><strong>RxDart 💡</strong></li> -->
         <li><strong>Equatable</strong></li>
         <li><strong>Freezed (+json_serializable)</strong></li>
       </ul>
