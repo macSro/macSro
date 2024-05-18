@@ -231,6 +231,7 @@ Below are the list of countries that I'd love to travel to and the list of count
   * [x] France
   * [x] Germany
   * [x] Greece
+  * [x] Hungary
   * [x] Ireland
   * [x] Italy
   * [x] Malta
